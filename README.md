@@ -38,6 +38,9 @@ Repo is at:
 
 Articles on DevOps:
 
+[Flutter DevOPS Approach To App Icons](https://fredgrott.medium.com/flutter-devops-approach-to-app-icons-bd21a7acf7e6?sk=0abad01f8e4c6cb9d3c54320582481e4)
+
+
 
 
 ## Flutter Bytes: Domain Layer
