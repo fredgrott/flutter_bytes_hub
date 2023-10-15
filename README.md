@@ -34,6 +34,8 @@ Articles on Custom Widgets:
 
 Repo is at:
 
+[Flutter Bytes DevOPS](https://github.com/fredgrott/flutter_bytes_devops)
+
 Articles on DevOps:
 
 
