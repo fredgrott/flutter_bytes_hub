@@ -43,6 +43,8 @@ Articles on DevOps:
 
 [Flutter Expert Way To Set Up Static Code Analysis](https://fredgrott.medium.com/flutter-expert-way-to-set-up-static-code-analysis-0c77346bee4c?sk=f7888eb91ae3006d4bb900bb175bcfd3)
 
+[Flutter OOP Way To Initialize Logging And Appenders](https://fredgrott.medium.com/flutter-oop-way-to-initialize-logging-and-appenders-59a5c29be94d?sk=c4400d9ecb44e77626ff920ee41b6d1a)
+
 
 
 
