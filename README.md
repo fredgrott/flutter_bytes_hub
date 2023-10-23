@@ -45,6 +45,9 @@ Articles on DevOps:
 
 [Flutter OOP Way To Initialize Logging And Appenders](https://fredgrott.medium.com/flutter-oop-way-to-initialize-logging-and-appenders-59a5c29be94d?sk=c4400d9ecb44e77626ff920ee41b6d1a)
 
+[Internationalizing Flutter Apps Is Hard Unless You Use My Way](https://fredgrott.medium.com/internationalizing-flutter-apps-is-hard-unless-you-use-my-way-a68884dadc76?sk=71f4a63fd7fb6c5f401f81906a2c6b1f)
+
+
 
 
 
