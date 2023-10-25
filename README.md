@@ -47,6 +47,7 @@ Articles on DevOps:
 
 [Internationalizing Flutter Apps Is Hard Unless You Use My Way](https://fredgrott.medium.com/internationalizing-flutter-apps-is-hard-unless-you-use-my-way-a68884dadc76?sk=71f4a63fd7fb6c5f401f81906a2c6b1f)
 
+[Expert Best Flutter App Build Machines Is It Apple Or Not](https://fredgrott.medium.com/expert-best-flutter-app-build-machines-is-it-apple-or-not-0b88704773ac?sk=e5bb87e48944cee6884e723c20b574b3)
 
 
 
